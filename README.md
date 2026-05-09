@@ -24,3 +24,8 @@ Kao neko ko se bavi QA testiranjem, ovaj kod sam dizajnirala tako da pokrije:
 1. Klonirajte repozitorijum:
    ```bash
    git clone git@github.com:Kassandra1994/Java-bingo-simulator.git
+2. Kompajlirajte i pokrenite:
+
+```bash
+javac MiniBingo.java
+java MiniBingo
